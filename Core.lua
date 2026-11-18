@@ -6,7 +6,7 @@
 local ADDON_NAME, ns = ...
 
 ns.TITLE = "Golden Hour"
-ns.ICON = "Interface\\Icons\\Spell_Holy_SurgeOfLight"
+ns.ICON = "Interface\\AddOns\\GoldenHour\\media\\Icon"
 
 local UNDO_MAX = 30
 local GROUP_SECONDS = 2   -- slider moves this close together undo as one
