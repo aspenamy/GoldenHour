@@ -3,6 +3,7 @@
 ## Notes: Beyond Ultra graphics for WoW Forever: hidden view distance, shadow, lighting and water settings, presets and profiles, plus the loot sparkle.
 ## Author: Astreae
 ## Version: @project-version@
+## X-Curse-Project-ID: 1813936
 ## IconTexture: Interface\AddOns\GoldenHour\media\Icon
 ## AddonCompartmentFunc: GoldenHour_OnAddonCompartmentClick
 ## X-License: All Rights Reserved
